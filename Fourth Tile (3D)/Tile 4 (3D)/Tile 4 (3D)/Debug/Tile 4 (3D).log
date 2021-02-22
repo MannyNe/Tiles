@@ -1,0 +1,6 @@
+﻿  Tile 4 (3D).cpp
+C:\Users\amann\source\repos\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(176,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amann\source\repos\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(206,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amann\source\repos\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(212,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amann\source\repos\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(308,36): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
+  Tile 4 (3D).vcxproj -> C:\Users\amann\source\repos\Tile 4 (3D)\Debug\Tile 4 (3D).exe
