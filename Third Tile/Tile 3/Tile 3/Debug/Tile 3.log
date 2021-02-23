@@ -1,22 +1,23 @@
 ﻿  Tile 3.cpp
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(54,39): warning C4305:  '+=': truncation from 'double' to 'float'
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(73,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(75,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(77,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(79,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(82,15): warning C4305:  '+=': truncation from 'double' to 'float'
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(87,39): warning C4305:  '+=': truncation from 'double' to 'float'
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(91,36): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(93,36): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(95,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(95,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(97,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(97,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(100,15): warning C4305:  '+=': truncation from 'double' to 'float'
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(106,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(106,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(108,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(110,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(112,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\amann\source\repos\Tile 3\Tile 3\Tile 3.cpp(112,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
-  Tile 3.vcxproj -> C:\Users\amann\source\repos\Tile 3\Debug\Tile 3.exe
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(62,39): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(81,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(83,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(85,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(87,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(90,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(95,39): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(99,36): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(101,36): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(103,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(103,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(105,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(105,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(108,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(114,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(114,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(116,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(118,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(120,38): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\amann\source\repos\Tiles\Third Tile\Tile 3\Tile 3\Tile 3.cpp(120,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  LINK : C:\Users\amann\Source\Repos\Tiles\Third Tile\Tile 3\Debug\Tile 3.exe not found or not built by the last incremental link; performing full link
+  Tile 3.vcxproj -> C:\Users\amann\Source\Repos\Tiles\Third Tile\Tile 3\Debug\Tile 3.exe

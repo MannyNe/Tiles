@@ -1,3 +1,11 @@
+/*
+
+	3rd Tile - The Selen
+	Name - Amanel negussie
+	SRC - HS8103
+
+*/
+
 #include <GL/glut.h>
 #include <Windows.h>
 #include <stdio.h>

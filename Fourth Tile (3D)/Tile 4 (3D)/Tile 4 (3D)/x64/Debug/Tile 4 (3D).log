@@ -1,0 +1,25 @@
+﻿  Tile 4 (3D).cpp
+C:\Users\amann\source\repos\Tiles\Fourth Tile (3D)\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(176,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amann\source\repos\Tiles\Fourth Tile (3D)\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(206,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amann\source\repos\Tiles\Fourth Tile (3D)\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(212,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\amann\source\repos\Tiles\Fourth Tile (3D)\Tile 4 (3D)\Tile 4 (3D)\Tile 4 (3D).cpp(308,36): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutReshapeWindow referenced in function "void __cdecl specialKeyboard(int,int,int)" (?specialKeyboard@@YAXHHH@Z)
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutPositionWindow referenced in function "void __cdecl specialKeyboard(int,int,int)" (?specialKeyboard@@YAXHHH@Z)
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutFullScreen referenced in function "void __cdecl specialKeyboard(int,int,int)" (?specialKeyboard@@YAXHHH@Z)
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Tile 4 (3D).obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Users\amann\source\repos\Tiles\Glew and Glut\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\amann\source\repos\Tiles\Glew and Glut\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\amann\Source\Repos\Tiles\Fourth Tile (3D)\Tile 4 (3D)\x64\Debug\Tile 4 (3D).exe : fatal error LNK1120: 17 unresolved externals

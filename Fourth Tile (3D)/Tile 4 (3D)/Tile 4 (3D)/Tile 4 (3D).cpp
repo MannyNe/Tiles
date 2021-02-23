@@ -1,13 +1,13 @@
 /*
 
-	3rd Tile - The Selen
-	Name - Amanel negussie
+	4th Tile - The 3D
+	Name - Amanuel negussie
 	SRC - HS8103
 
 */
 
-#include<stdio.h>
-#include<iostream>
+#include <stdio.h>
+#include <iostream>
 #include <GL/glut.h>
 #define KEY_ESC 27
 
