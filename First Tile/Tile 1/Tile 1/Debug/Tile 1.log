@@ -90,4 +90,5 @@ C:\Users\amann\source\repos\Tiles\First Tile\Tile 1\Tile 1\Tile 1.cpp(383,24): w
 C:\Users\amann\source\repos\Tiles\First Tile\Tile 1\Tile 1\Tile 1.cpp(384,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
 C:\Users\amann\source\repos\Tiles\First Tile\Tile 1\Tile 1\Tile 1.cpp(392,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
 C:\Users\amann\source\repos\Tiles\First Tile\Tile 1\Tile 1\Tile 1.cpp(393,32): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+  LINK : C:\Users\amann\Source\Repos\Tiles\First Tile\Tile 1\Debug\Tile 1.exe not found or not built by the last incremental link; performing full link
   Tile 1.vcxproj -> C:\Users\amann\Source\Repos\Tiles\First Tile\Tile 1\Debug\Tile 1.exe
