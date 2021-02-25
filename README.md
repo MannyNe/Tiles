@@ -1,6 +1,6 @@
 # Tiles
-Graphics trial using the GLUT library C++
+Graphical design using the GLUT library C++
 
-This code uses the GLUT library for graphical manipulation. To run this code, you have to have the glut library installed on your system or possibly download the library manually then link it onto your preferred IDE.
+This code uses the GLUT library for graphical manipulation. I set up the code to run without encountering problems (Tested on Visual Studio 2019), and it should work. But just in case it didn't, download and link the GLUT AND GLEW libraries manually on your system.
 
-If you use visual studio, you could use the following link to set GLUT up: https://youtu.be/HKGJrzAuTvU
+You could use this tutorial on how to link your IDE with the libraries: https://youtu.be/HKGJrzAuTvU
